@@ -48,7 +48,7 @@ pip install transformers datasets scikit-learn matplotlib accelerate evaluate py
 
 You can open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narges-tbm/persian-news-classifier/blob/main/News_Classification_mDeBERTa.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narges-tbm/persian-news-classification/blob/main/News_Classification_mDeBERTa.ipynb)
 
 
 Run all cells to:
